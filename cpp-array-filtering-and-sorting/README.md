@@ -1,4 +1,4 @@
-# Array Filtering and Sorting (C++)
+# Array Filtering and Sorting
 
 ## Описание проекта
 
