@@ -1,4 +1,4 @@
-# C++ Basics and Caesar Cipher
+# Basics and Caesar Cipher
 
 ## Описание проекта
 
