@@ -1,0 +1,10 @@
+//#include "Self_made.h"
+#include <iostream>
+#include <limits>
+#include <string>
+int input(int);
+void check_int(int&);
+void check_float(float&);
+void input_int(int&);
+void input_float(float&);
+void input_string(std::string&);
