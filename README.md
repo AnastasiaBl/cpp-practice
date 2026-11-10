@@ -8,7 +8,7 @@ The repository documents practical exercises and implementations developed durin
 
 ### 1. C++ Basics and Caesar Cipher
 
-**Folder:** `01basics-and-caesar-cipher/`
+**Folder:** `01-basics-and-caesar-cipher/`
 
 C++ fundamentals, including variables, arrays, functions and a basic Caesar cipher implementation.
 
@@ -24,7 +24,7 @@ Working with dynamic arrays, `std::vector` and `std::variant`, including input a
 
 ### 3. Two-Dimensional Arrays and Matrix Operations
 
-**Folder:** `two-dimensional-arrays/`
+**Folder:** `cpp-two-dimensional-arrays/`
 
 Working with two-dimensional arrays, matrix generation, element searching, random values and matrix transformations.
 
@@ -168,7 +168,7 @@ Each project is stored in a separate directory and contains its own README file 
 
 ```text
 Programming-Practice/
-├── 01basics-and-caesar-cipher/
+├── 01-basics-and-caesar-cipher/
 ├── cpp-array-filtering-and-sorting/
 ├── cpp-two-dimensional-arrays/
 ├── des-feistel-function/
